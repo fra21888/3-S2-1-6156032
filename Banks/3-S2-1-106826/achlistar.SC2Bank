@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="achievement">
+        <Key name="set">
+            <Value int="6"/>
+        </Key>
+        <Key name="save">
+            <Value string="0hRDGEab667d3F7L1FHLCHKKFHJMDFJKDIL8C9IM17HKBGLJ1G7IEGIhGFIKFIKIFDH8FF7IEEHLDDMNCFJNGFI8EEMMBD7NFIKJDGKICF7IG3JNBIH8BFH8DFKMEI7MGIJM"/>
+        </Key>
+        <Key name="playername">
+            <Value text="그냥그랬어"/>
+        </Key>
+    </Section>
+    <Signature value="01F826EF471CA1A3A068B86CEC8FF79622FB6E71"/>
+</Bank>
